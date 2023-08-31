@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <record name="RequestHeader" javaclass="com.wm.data.ISMemDataImpl">
+      <value name="BranchId">244</value>
+      <value name="CompanyId">97</value>
+      <value name="UserID">264</value>
+      <value name="MessageId">20317594692093</value>
+      <value name="TransactionId">335648675*13619772</value>
+    </record>
+    <value name="ClaimNumber">335648675</value>
+    <value name="PolicyNumber">OT38081305</value>
+    <value name="InsuredFirstName">RYLIH</value>
+    <value name="InsuredSurname">CUUNNED</value>
+    <value name="IsInsuredRenter">false</value>
+    <value name="RenterFirstName">RYLIH</value>
+    <value name="RenterSurname">CUUNNED</value>
+    <value name="TelephoneCode">083</value>
+    <value name="TelephoneMobile">3814988</value>
+    <value name="Email">ansaras@out.co.za</value>
+    <value name="IdNumber">7210275006086</value>
+    <value name="RentalType">0</value>
+    <value name="CarGroup">14</value>
+    <value name="InsurerLiableForDeliveryCosts">Y</value>
+    <value name="InsurerLiableForCollectionCosts">Y</value>
+    <value name="CollectionDate">2023-08-16T16:45:55</value>
+    <value name="ReturnDate">2023-08-31T16:45:55</value>
+    <value name="NumberOfRentalDays">15</value>
+    <value name="PolicyExcess">0</value>
+    <value name="InsuredExcess">0</value>
+    <value name="ExcessTobeCollectedByAvis">false</value>
+    <value name="ClientLiableForDeposit">true</value>
+    <record name="ClaimHandler" javaclass="com.wm.data.ISMemDataImpl">
+      <value name="FirstName">SHANE</value>
+      <value name="Surname">ANSARA</value>
+      <value name="Email">CHO@out.co.za</value>
+      <value name="ContactNumber">012 3363975</value>
+    </record>
+    <record name="Broker" javaclass="com.wm.data.ISMemDataImpl">
+      <value name="Name">GONNUW JUVADW</value>
+      <value name="Email">ubmi@out.co.za</value>
+      <value name="ContactNumber">012 9722666</value>
+    </record>
+    <array name="CustomFields" type="record" depth="1">
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="FieldName">ReservationNumber</value>
+        <value name="FieldType">string</value>
+      </record>
+    </array>
+  </record>
+</IDataXMLCoder>
+
+1970-01-01 12:12:00.0
